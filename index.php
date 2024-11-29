@@ -4,7 +4,7 @@
     echo "fiw";
 
 
-    echo "hi"
+    echo "hi";
 
     
     echo "hi";
