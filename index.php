@@ -3,4 +3,5 @@
     echo "me";
     echo "fiw";
 
+    echo "hi";
 ?>
