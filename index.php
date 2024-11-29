@@ -3,6 +3,6 @@
     echo "me";
     echo "fiw";
 
-    echo "hi";
-    echo "ooo";
+    echo "Hiiii";
+    echo "Thi";
 ?>
